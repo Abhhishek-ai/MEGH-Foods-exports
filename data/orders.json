@@ -1,0 +1,28 @@
+[
+  {
+    "id": "ord-01-sample",
+    "order_number": "MF-202611-001",
+    "access_token": "tok_sample_1",
+    "customer_name": "Rajesh Patel",
+    "customer_email": "rajesh.patel@gmail.com",
+    "ship_country": "United States",
+    "currency": "USD",
+    "total": 84.5,
+    "payment_status": "paid",
+    "fulfillment_status": "new",
+    "created_at": "2026-11-02T01:44:30.470Z"
+  },
+  {
+    "id": "ord-02-sample",
+    "order_number": "MF-202611-002",
+    "access_token": "tok_sample_2",
+    "customer_name": "Anjali Sharma",
+    "customer_email": "anjali.sharma@outlook.com",
+    "ship_country": "India",
+    "currency": "INR",
+    "total": 1250,
+    "payment_status": "paid",
+    "fulfillment_status": "packed",
+    "created_at": "2026-11-01T17:44:30.470Z"
+  }
+]
